@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/Level_Design_UE5-CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/Level_Design_UE5-CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/Level_Design_UE5-CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/UI/HealthBar_UIBP.uasset",
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/Level_Design_UE5-CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Pickups/HealthUp_Pickup_BP.uasset",
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/Level_Design_UE5-CS415/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/_Shared/Materials/M_MASTER_OPAQUE.uasset"
+			]
+		}
+	]
+}
